@@ -69,9 +69,9 @@ Java · Spring Boot · Spring Security · Gradle · REST APIs · Microservices �
 - Coordination of backend development activities within an Agile environment.
 - Technical support for the team and participation in architecture and implementation decisions.
 
-### PHP Developer — Odesa, Ukraine (On-site)
+### PHP Developer — 111PIX.UA
 
-*August 2007 to May 2008*
+*Odesa, Ukraine (On-site) · August 2007 to May 2008*
 
 - Full-cycle PHP development: application development, database changes, deployment, testing, and production support.
 - Designed and modified database structures and SQL queries.
