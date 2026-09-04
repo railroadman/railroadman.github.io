@@ -11,7 +11,7 @@
 
 ## Summary
 
-Java Developer with a broad backend and full-stack background: Java / Spring Boot microservices, REST APIs, and SQL databases, alongside experience in Python, PHP, and JavaScript (Vue.js).
+Backend engineer specializing in high-load microservices architecture. Designed and maintained 50+ microservices handling hundreds of millions of transactions monthly. Expert in distributed systems, event-driven architecture, and database optimization for large-scale retail and payment processing platforms.
 
 ## Education
 
@@ -21,7 +21,7 @@ Bachelor's degree, Artificial Intelligence, 2000 – 2005
 
 ## Skills
 
-Java · Spring Boot · REST APIs · Microservices · SQL · Event-Driven Architecture · PHP · Python · JavaScript (Vue.js) · Elasticsearch · Swagger / OpenAPI · Unit / Integration Testing · AI Agents (Claude Code, Codex) · Docker · Kubernetes · Jenkins · Linux Administration
+Java · Spring Boot · Spring Security · Gradle · REST APIs · Microservices · Event-Driven Architecture · SQL · Microsoft SQL Server · MySQL · PostgreSQL · PHP · Python · JavaScript (Vue.js) · Elasticsearch · Swagger / OpenAPI · Unit / Integration Testing · JMeter · AI Agents (Claude Code, Codex) · Docker · Kubernetes · Jenkins · Linux Administration
 
 ## Language
 
@@ -34,15 +34,14 @@ Java · Spring Boot · REST APIs · Microservices · SQL · Event-Driven Archite
 
 *Odesa, Ukraine (Hybrid) · August 2021 to August 2026*
 
-- Development and maintenance of microservices using Java and Spring Boot.
-- Database development, maintenance, and schema changes.
-- Writing and optimizing complex SQL queries.
-- Working with event-driven architecture and asynchronous processing.
-- Development and maintenance of REST APIs.
-- Unit, mock, and integration testing.
-- Development of Swing-based applications for working with backend APIs.
-- API documentation and maintenance using Swagger / OpenAPI 3.0.
-- Troubleshooting, debugging, performance analysis, and production support.
+- Architected and maintained 50+ microservices handling hundreds of millions of transactions monthly in high-availability retail and payment processing platform.
+- Developed POS terminal backend supporting both offline and online modes with catalog management for millions of products.
+- Optimized complex SQL queries and database schemas, improving query performance and supporting massive transaction volume.
+- Designed event-driven architecture for asynchronous processing across distributed microservices.
+- Implemented and maintained REST APIs with Swagger / OpenAPI 3.0 documentation.
+- Established comprehensive testing strategy (unit, mock, integration testing) ensuring production reliability.
+- Developed Swing-based terminal management applications integrating with backend REST APIs.
+- Reduced production incidents through performance analysis, debugging, and continuous optimization.
 
 ### Full Stack Engineer — 7km.biz · Self-employed
 
